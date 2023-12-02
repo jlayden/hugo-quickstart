@@ -5,8 +5,8 @@
 node_modules/
 
 # exampleSite
-# public/
-# resources/
+public/
+resources/
 .hugo_build.lock
 hugo_stats.json
 content/**/*.jpg
