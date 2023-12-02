@@ -133,3 +133,14 @@ And lastly if you’d like to remove Cypress entirely, delete the entire `cypre
 ```bash
 npm uninstall cypress
 ```
+
+# Example site for hugo-theme-gallery
+
+## Installation
+
+```
+hugo mod get
+hugo mod npm pack
+npm install
+./pull-images.sh
+```
