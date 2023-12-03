@@ -1,19 +1,20 @@
-title = "Gallery"
+title = "leah.c0m"
 languageCode = "en-us"
-copyright = "© Your Name"
+copyright = "©leah"
 disableKinds = ["taxonomy", "term"]
 defaultContentLanguage = "en"
 enableRobotsTXT = true
-timeZone = "Europe/Berlin"
+timeZone = "America/Chicago"
+timeout = "3000s"
 theme = "github.com/nicokaiser/hugo-theme-gallery"
 
 [params]
-  title = "My Gallery"
-  description = "Example site for hugo-theme-gallery"
+  title = "photography"
+  description = "portfolio"
   defaultTheme = "dark"
 
 [author]
-  name = "Your Name"
+  name = "leah"
 
 [outputs]
   page = ["HTML"]
@@ -56,6 +57,6 @@ theme = "github.com/nicokaiser/hugo-theme-gallery"
 
 [menu]
 [[menu.footer]]
-  name = "GitHub"
-  url = "https://github.com/nicokaiser/hugo-theme-gallery/"
+  name = "gram"
+  url = "https://www.instagram.com/leah.c0m/"
   weight = 3

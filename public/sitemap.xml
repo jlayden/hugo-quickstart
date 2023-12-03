@@ -2,9 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://hugo-quickstart-template.netlify.com/categories/</loc>
+    <loc>/slayground/</loc>
   </url><url>
-    <loc>http://hugo-quickstart-template.netlify.com/</loc>
+    <loc>/cuntyfair/</loc>
   </url><url>
-    <loc>http://hugo-quickstart-template.netlify.com/tags/</loc>
+    <loc>/halloween/</loc>
+  </url><url>
+    <loc>/onlyfans/</loc>
+    <lastmod>2023-04-01T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>/onlyfans/cats/</loc>
+    <lastmod>2023-04-01T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2023-04-01T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>/onlyfans/dogs/</loc>
+    <lastmod>2023-01-12T00:00:00-06:00</lastmod>
+  </url><url>
+    <loc>/about/</loc>
+  </url><url>
+    <loc>/bio/</loc>
   </url></urlset>
